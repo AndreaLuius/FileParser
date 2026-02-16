@@ -1,0 +1,793 @@
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+       1991
+   1   1990   COSTRUZIONE INTERRATO E PORTICATO          9      502                                                                 OLIVIERI VIRGINIO
+   1   1991   NUOVA COSTRUZIONE RURALE                   13     105-111-1087                               1/O/91       24.08.92    FILATTIERA RENZO
+   1   1992   AMPLIAMENTO FABBRICATO                     1      609                                                                 BELLOTTO ARDO
+
+   2   1990   PIANO DI LOTTIZZAZIONE PER EDILIZIA        13     347-927-928-978-979-980-981                2/O/90       15.04.93    GIANNETTO G. S.r.l. & CECCHINI C.
+              RESIDENZIALE
+
+   2   1991   NUOVA COSTRUZIONE COLONICA                 1      5-6                                                                 VIVALDI FEDERICI CRISTINA
+   2   1992   COSTRUZIONE 22 ALLOGGI IN P.E.E.P.                                                           2/CONV/92    03.05.94    COOP. EDILIZIA AURORA  S.C.R.L.
+
+   3   1990   AMPLIAMENTO 20% PER CAMBIO DI              8      173                                        3/G/90       02.04.90    BERTUCCI ANNA
+              DESTINAZIONE D'USO
+
+   3   1991   VARIANTE IN CORSO D'OPERA ALLA CONC. ED.   9      180                                        3/O/91       30.09.91    FRANCIOSI VANNA
+              101/87
+
+   3   1992   COSTRUZIONE LOCALE INTERRATO               5      861-863-869-868-866                        3/O/92       31.07.92    GIANFRANCESCHI FELICE
+
+   4   1990   REALIZZAZIONE STRADA DI ACCESSO *** IN     17     55-56-144                                  4/O/90       22.06.90    BERNAZZANI VINCENZO
+              SANATORIA ***
+
+   4   1991   COSTRUZIONE FABBRICATO AGRICOLO            5      536                                                                 CORBANI AMELIA
+   4   1992   COSTRUZIONE EDICOLA FUNERARIA              5                                                                          BERTELLA FRANCESCO
+
+   5   1990   VARIANTI IN CORSO D'OPERA ALLA CONC.       12     713-734-751-754-669-882-1161               5/G/90       09.09.91    ESPOSITO ANGELO
+              60/O/87
+
+   5   1991   DEMOLIZIONE E RICOSTRUZIONE SCALA          3      556                                        AUT. 5       31.01.92    BOGO GIANFRANCO
+   5   1992   COSTRUZIONE ACCESSORI AGRICOLI             9      646                                        5/O/92       21.11.94    LANDUCCI MIRIO
+
+   6   1990   COSTRUZIONE TETTOIA PER RICOVERO FIENO     14     22                                                                  ALPINOLI MARINO
+              *** IN SANATORIA  ***
+
+   6   1991   NUOVA COSTRUZIONE BOX PREFABBBRICATO       9      132                                        6/O/91       14.05.92    SIGNEGO ALBERTO
+   6   1992   SISTEMAZIONE TERRENO CON RIEMPIMENTO       15     40-41-42-43-245-246-247                                             SOC. FASAL di BROTINI ALBERTO
+   7   1990   CAMBIO DI DESTINAZIONE D'USO               16     256                                        AUT. 127     03.09.90    FRESCO MARIO
+   7   1991   FRAZIONAMENTO IMMOBILIARE                  16     606                                        7/O/91       18.07.91    CONCIATORE NEVA BRUNA
+   7   1992   COPERTURA  FOSSO                           12     12                                         AUT. 99      30.05.92    ROSSI CLELIA
+   8   1990   COSTRUZIONE LOCALE INTERRATO               10     64-76                                                               DI PASQUALE ARNALDO
+
+   8   1991   VARIAZIONE D'USO E FRAZIONAMENTO           6      152                                        AUT. 80      21.06.91    BELLI GABRIELLA
+              PROPRIETA'
+
+   8   1992   RISTRUTTURAZIONE E CAMBIO D'USO **** IN    13     806                                                                 ALBANI DERNA
+              SANATORIA ****
+
+   9   1990   COSTRUZIONE GARAGE INTERRATO               1      588                                                                 BONOMI PIERINO
+   9   1991   NUOVO AMPLIAMENTO FABBRICATO               7      659                                        9/O/91       22.07.91    GIARELLI ROBERTO
+   9   1992   RISTRUTTURAZIONE                           6      270                                        AUT.154/93   18.09.93    MOLINARI PAOLO - STRETTI M. GRAZIA
+  10   1990   COSTRUZIONE LOCALI INTERRATI               2      481                                                                 LORIERI GIORGIO
+  10   1991   VARIAZIONE D'USO                           13     742                                        10/O/91      31.01.92    AMORFINI TELLIO
+  10   1992   COSTRUZIONE GARAGE INTERRATO               13     1174                                       10/O/92      09.12.92    CAPACCIOLI RENATO
+
+  11   1990   COSTRUZIONE DEPOSITI AGRICOLI ** IN        5      171                                                                 CORTESIA ANTONIO
+              SANATORIA **
+
+
+
+
+                                                                                   Pag. 1
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  11   1991   COSTRUZIONE LOCALE INTERRATO               2      1044                                       11/O/91      09.08.91    COZZANI GIOVANNI E GIANELLONI C.
+  11   1992   COSTRUZIONE RICOVERO ATTREZZI              7      497                                                                 VILLAMONTE ANTONIO
+  12   1990   COSTRUZIONE STRADA *** IN SANATORIA ***    9      VARI                                       12/O/90      14.07.92    BROZZO GIULIANA e ALTRI
+
+  12   1991   COSTRUZIONE LOCALE ACCESSORIO *** IN       13     1044                                                                RONDELLI MARINA
+              SANATORIA ***
+
+  12   1992   RECINZIONE CON RINGHIERA                   13     863                                        AUT 173/92   26.08.92    SCHIAVI EMILIO
+  13   1990   RIATTAMENTO PORTICATO ESTERNO              12     536-537                                                             BRUGNOLI VIRGILIO
+  13   1991   NUOVA COSTRUZIONE RESIDENZIALE-AGRICOLA    12/1   847-850-851                                ARCH.UFF.    06.02.95    RIGHETTI FLAVIO - (PETACCHI M.PAOLA)
+  13   1992   COSTRUZIONE PORTICATO                      12     93                                         13/O/92      21.06.93    TORACCA MARCO
+
+  14   1990   VARIANTE IN CORSO D'OPERA ALLA CONC.       1      594-596                                    14/G/90      10.09.90    SANLAZZARO ALDEMARA
+              76/O/87
+
+  14   1991   COSTRUZIONE SERBATOIO                      16     12                                                                  SOC. A.C.A.M.
+  14   1992   AMPLIAMENTO 20%                            9      158-188                                    14/O/92      28.06.93    PARENTE PAOLO
+  15   1990   COSTRUZIONE LOCALE INTERRATO               2      23                                         15/O/90      03.07.90    BATTAGLIOLI GIACOMO
+  15   1991   FRAZIONAMENTO IMMOBILIARE                  15     25                                         15/O/91      05.09.91    TRIACCA GIAN LUIGI E ALTRI
+  15   1992   COSTRUZIONE STRADA INTERPODERALE           2      228-237                                    15/O/92      07.05.93    GUIDALI ANNALISA
+
+  16   1990   EDIL. SOVVENZIONATA - PARERE EX. ART. 7    1      143-144-145-146                                                     ABITCOOP e COABITUR
+              L.R. 24/87
+
+  16   1991   ADEGUAMENTO STATICO DI FABBRICATO          13     1174                                       16/O/91      02.08.91    CAPACCIOLI RENATO - BARDELLI ANNA
+  16   1992   VARIANTE ALLA C.E. 114/89                  13     1404-1411-1413                             16/O/92      31.07.92    SOC. ALFA COSTRUZIONI
+  17   1990   COSTRUZIONE DI STRADA PRIVATA              1      913-914                                                             BERNARDINI S. - BONOMI G.
+  17   1991   RISTRUTTURAZIONE CON AMPLIAMENTO 20%       2      460-461-464-700                            17/O/91      23.01.95    SIMONINI GIUSEPPE
+  17   1992   ADEGUAMENTO STATICO                        3      216-217                                    17/O/92      05.08.92    RICCIARDI LUIGI
+  18   1990   COSTRUZIONE FABBRICATO                     13     76-461                                     18/O/90      12.02.91    BRUGNOLI METELLO - (VOLT. COSTA G.)
+  18   1991   DEMOLIZIONE W.C. E CREAZIONE MONOLOCALE    16     256                                        18/O/91      23.05.91    FRESCO MARIO
+  18   1992   COSTRUZIONE FABBRICATO AGRICOLO            2      1173-1174                                                           ANDREETI ANGELO e ACHAY DELIA
+
+  19   1990   COSTRUZIONE AUTORIMESSA E CANTINA          16     654                                        19/O/90      02.08.90    BRUNI BRUNO e PIGNATI ROSALBA
+              INTERRATI - MURO DI RECINZIONE
+
+  19   1991   COSTRUZIONE CENTRALE TELEEFONICA           13     518                                                                 SOC. S.I.P.
+  19   1992   VARIANTE DI POSIZIONAMENTO AL CAPANNONE    4      92                                         19/O/92      15.03.93    SOC. F.lli BERTONI S.R.L.
+
+  20   1990   MANTENIMENTO IN ESSERE DI FABBRICATO       6      54                                         20/O/90      05.10.90    MENCARELLI ALDA MARIA
+              RURALE OGGETTO DI DEMOLIZIONE ***  IN
+              SANATORIA  ***
+
+  20   1991   NUOVA COSTRUZIONE RESIDENZIALE-AGRICOLA    9      264                                                                 DI STANI ROBERTO
+  20   1992   ADEGUAMENTO SISMICO                        1      647-549                                    20/O/92      28.08.92    BELLESI GIORGIO
+  21   1990   COSTRUZIONE CANTINA INTERRATA              8      465                                        21/O/90      27.08.90    SACCOMANI SERGIO
+
+  21   1991   TAMPONAMENTO PORTICATO *** IN SANATORIA    16     444                                                                 LEROSE VALTER
+              ***
+
+  21   1992   COSTRUZIONE LOCALE INTERRATO               16     279                                                                 GHIGGINI GIUSEPPE - TARABOTTO G.
+  22   1990   COSTRUZIONE PORTICO E RISTRUTTURAZIONE     12     729-1192-1193                              22/O/90      14.06.90    FINO  AIDA
+  22   1991   RECINZIONE                                 13     1092                                       AUT.         09.09.91    PISCULLI MICHELE
+  22   1992   RISTRUTTURAZIONE                           13     500                                        22/O/92      29.01.93    BASSANO ELIDE
+  23   1990   RISANAMENTO IGIENICO SANITARIO             13     742                                        AUT. 74      31.05.90    AMORFINI TELLIO
+  23   1991   NUOVO AMPLIAMENTO 20% E RISTRUTTURAZIONE   13     588                                        23/O/91      12.02.92    CATTANI MAURO
+  23   1992   AMPLIAMENTO ATTIVITA' ARTIGIANALE          14     11-12-197-256-301-300                      23/O/92      31.12.94    GIORDANI DOMENICO
+
+
+
+                                                                                   Pag. 2
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  24   1990   COSTRUZIONE FORNO E VASCA PER RACCOLATA    12     231-236-248-254                            AUT. 88      14.06.90    ARRIGONI GIOVANNI
+              ACQUE
+
+  24   1991   P.I.M. REGIONE LIGURIA - 1^ LOTTO                                                                                     CONSORZIO GESTIONE PARCO FLUVIALE
+              FUNZIONALE
+
+  24   1992   VARIANTE IN CORSO D'OPERA ALLA CONC.       7      583-900                                                             BERTANI ARMANDO
+              EDIL. 85/88
+
+  25   1990   RESTAURO FABBRICATI                        12     442-443                                    AUT. 87      10.09.90    SOC. IMMOBILIARE SOLARO
+  25   1991   AMPLIAMENTO E FRAZIONAMENTO IMMOBILIARE    3      764                                        ARCHIV.      22.06.91    SGORBINI GIORGIO E MARIO
+
+  25   1992   NUOVA COSTRUZIONE                          13     618                                        25/O/92      23.12.92    GOTTARDO G.-RAMPADO E. (VOLT. TOGNONI
+                                                                                                                                    L.)
+
+  26   1990   SISTEMAZIONE AREA P.za 2 GIUGNO -                                                                                     FOSELLA CINZIA
+              POSIZIONAMENTO CHIOSCO
+
+  26   1991   VARIANTI DI DETTAGLIO ALLA CONC. ED.       3      802                                        26/G/91      07.08.92    LO PRETE GIOVANNA
+              8/O/86
+
+  26   1992                                                                                                                         BATTAGLIOLI GIACOMO
+  27   1990   RESTAURO E RISANAMENTO FABBRICATO          2      419                                        AUT. 145     08.10.90    TARTARINI GIUSEPPE
+
+  27   1991   NUOVA COSTRUZIONE AGRICOLA E               9      269-544                                                             MARACCI ENZO
+              RESIDENZIALE
+
+  27   1992   RISTRUTTURAZIONE - COSTRUZIONE INTERRATO   16     17-492                                     27/O/92      28.08.92    BERETTIERI GIANNI
+              E STRADA ACCESSO
+
+  28   1990   CONSOLIDAMANTO MURO DI SOSTEGNO CIMITERO   5                                                 ARCH. UFF.   17.04.90    COMUNE DI ARCOLA
+              DI BACCANO
+
+  28   1991   COSTRUZIONE DEPOSITO ATTREZZI              7      396                                                                 ROLANDELLI PAOLO
+
+  28   1992   COSTRUZIONE MURO DI SOSTEGNO E             5      865-867-870                                AUT. 203     02.11.92    ENGL ANTONIO e DA POZZO L.
+              RECINZIONE
+
+  29   1990   COSTRUZIONE FABBRICATO ABITATIVO IN ZONA   13     156-618-619-620                                                     GOTTARDO GIUSEPPE - RAMPANO E.
+              AGRICOLA
+
+  29   1991   ADEGUAMENTO STATICO                        3      464-465                                    29/O/91      03.09.94    TRIMARCO TOMMASO
+  29   1992   SANATORIA EX ART. 7 L. 1497/39             16     442                                                                 ROFFO CLAUDIO
+
+  30   1990   COSTRUZIONE FABBRICATO ABITATIVO IN ZONA   13     931                                                                 GOTTARDO MAFALDA
+              AGRICOLA
+
+  30   1991   COSTRUZIONE INTERRATO                      9      314                                        31/O/91      31.10.92    BALESTRINO FERDINANDO
+  30   1992   RISTRUTTURAZIONE                           2      545                                        30/O/92      20.11.92    MAGGIARI GIANFRANCO
+
+  31   1990   COSTRUZIONE FABBRICATO ABITATIVO IN ZONA   13     609-930                                    31/O/90      11.03.91    GOTTARDO ELISEO - VOLT. GOTTARDO A.
+              AGRICOLA
+
+  31   1991   RISTRUTTURAZIONE SCALA ESTERNA             9      958                                                                 CONTI CATIA
+
+  31   1992   VARIANTE IN CORSO D'OPERA ALLA CONC. ED.   3      912-1120-1121                                                       ROMEO SALVATORE
+              104/90
+
+
+
+                                                                                   Pag. 3
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  32   1990   RISTRUTTURAZIONE ED AMPLIAMENTO            12     1210                                                                SONCINI GIAMPIERO
+  32   1991   COSTRUZIONE INTERRATO                      9      849                                                                 LUCCHI GIUSEPPE
+  32   1992   RISTRUTTURAZIONE E RISANAMENTO             12     680-681                                    32/O/92      22.03.93    MORUZZO DONATELLA
+
+  33   1990   AMPLIAMENTO F.R. ESISTENTE CON             3      515-516                                    33/O/90      25.10.91    AMBROSI MARIO
+              TRASPOSIZIONE DI VOLUME
+
+  33   1991   VARIANTE IN CORSO D'OPERA ALLA CONC. ED.   13     76-461                                                              COSTA GIOACCHINO
+              18/O/90
+
+  33   1992   RISTRUTTURAZIONE                           9      129                                        33/O/92      23.04.93    LINARI CORRADO
+  34   1990   COSTRUZIONE MURO DI SOSTEGNO               9      502                                        AUT. 78      11.06.91    OLIVIERI VIRGINIO
+
+  34   1991   RISTRUTTURAZIONE E COSTRUZIONE SCALA       16     192                                                                 LUCIANI ALFIO
+              ESTERNA
+
+  34   1992   COSTRUZIONE PUNTO INTERCETTAZIONE DI                                                                                  SOC. SNAM S.p.a.
+              LINEA
+
+  35   1990   ADEGUAMENTO SISMICO ED AMPLIAMENTO DI      9      160-584                                    ARCH. UFF    17.12.90    BERTAGNA NEVIO E BELLOTTO IRLANDA
+              FABBRICATO AD USO AGRICOLO
+
+  35   1991   NUOVO AMPLIAMENTO 20% E RISTRUTTURAZIONE   12     184                                        35/O/91      01.07.92    FOLEGNANI LORENZO
+  35   1992   RISTRUTTURAZIONE E CAMBIO USO                                                                35/O/92      08.07.92    SOC. CON.I.R.
+
+  36   1990   RISTRUTTURAZIONE E FRAZIONAMENTO UNITA'    7      837                                        36/O/90      31.05.90    FATTORINI LIVIO
+              IMMOBILIARE
+
+  36   1991   ADEGUAMENTO FABBRICATO INDUSTRIALE         4      77-79-106-107-108-109-110-111-207          36/G/91      31.07.91    SOC. ALEMAR S.a.s. (JOB GREGORIO)
+  36   1992   VARIANTE ALLA CONC. EDIL. N. 47/O/91       3      234                                        36/O/92      10.03.93    VENTURINI RENATO
+
+  37   1990   CAMBIO DESTINAZIONE D'USO E SISTEMAZIONE   5      576                                        37/O/90      28.05.91    BELLOTTO CARLO
+              ESTERNA
+
+  37   1991   VARIANTE NON STRUTTURALE ALLA CONC. ED.    13     1097                                       37/G/91      31.10.91    SOC. ALFA COSTRUZIONI S.r.l.
+              114/G/89
+
+  37   1992   ADEGUAMENTO STATICO                        3      577-979                                                             VASCONI CARLO
+
+  38   1990   COSTRUZIONE PORTICATO ED APERTURA          16     104                                        38/O/90      22.10.90    CODELUPPI WALTER
+              FINESTRA
+
+  38   1991   COSTRUZIONE SCALA ESTERNA                  13     172                                        38/O/91      15.11.93    LEONARDI GIULIANO E SILVANO
+  38   1992   RIPRISTINO STRADA                          1      VARI                                                                FOSELLA LICIO
+
+  39   1990   RISTRUTTURAZIONE ED AMPLIAMENTO DI         5      527-205                                    39/O/89      21.11.90    SERAGLINI DORA ANNA
+              FABBRICATO E COSTRUZIONE DEPOSITO
+              ATTREZZI INTERRATO
+
+  39   1991   VARIAZIONE D'USO                           1      746                                                                 BERLINGHIERI NARDINO
+  39   1992   AMPLIAMENTO 20% E RISTRUTTURAZIONE         10     315-317-353-324-334-328                    39/O/92      21.01.93    BADIALE MARIA ELISABETTA
+  40   1990   COSTRUZIONE GARAGE INTERRATO               1      867                                        40/O/90      12.07.90    BELLESI PIERLUIGI
+  40   1991   MOVIMENTI TERRA E REALIZZAZIONE SERRE      8      4                                                                   FOSELLA DAVIDE
+  40   1992   VARIANTE ALLA CONC. n. 134/O/87            10     29                                         40/G/92      01.10.94    ANGELINELLI ANGELO
+
+  41   1990   RECUPERO DI VOLUME PER COSTRUZIONE         7      681-913                                    41/O/90      27.03.92    VALENTI GIONANNI
+              GARAGE
+
+
+
+                                                                                   Pag. 4
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  41   1991   VARIANTE ALLA CONCESSIONE N. 43/O/88       10     261-262                                    41/G/91      02.12.91    ANTOGNETTI MAFALDA & BIASI COSIMO
+
+  41   1992   DEMOLIZIONE TETTOIA E COSTRUZIONE          13     890                                                                 ANTONINI DELIA
+              PORTICATO
+
+  42   1990   ADEGUAMENTO SISMICO DI FABBRICATO          4      421-422-423                                42/O/90      28.06.90    STELITANO SALVATORE
+              OGGETTO DI CONDONO EDILIZIO
+
+  42   1991   RIFACIMENTO COPERTURA E RESTAURO           3      576                                                                 BERNACCHI SAURO
+              CONSERVATIVO
+
+  42   1992   VARIANTE ISOVOLUMICA CON AUMENTO SUP.      13     1404-1411-1413                             42/O/92      01.02.93    ALFA COSTRUZIONI
+              PORTICATI
+
+  43   1990   COSTRUZIONE SCALA CONTROTERRA              10     407 - 393                                  AUT. 6       03.02.92    DODERO FRANCO
+  43   1991   DEMOLIZIONE E RICOSTRUZIONE FABBRICATO     16     306-328                                    ARCH.UFF.    06.02.95    PELLEGRI D. x "LO STELLINO" S.r.l.
+  43   1992   CONSOLIDAMENTO STATICO DEPOSITO ATTREZZI   13     1381                                       43/O/92      25.05.93    GIAMPAOLI GIANCARLO
+  44   1990   RISTRUTTURAZIONE                           5      412-841                                    44/O/90      29.11.90    SCARPATO N. e PELLEGRI ROBERTA
+  44   1991   COSTRUZIONE PORTICATO                      16     642-419                                    ARCH.UFF.    06.02.95    RATTI ANGELO - VAGGIOLI LUCIANA
+  44   1992   RICOSTRUZIONE SCALA                        13     493-494                                    ARCH.UFF.    31.12.93    FABIANO LUCIO E RANA MARIA
+  45   1990   RIFACIMENTO DELLA COPERTURA                7      18                                         AUT. 134     13.09.90    VINCIGUERRA B. e BUSCAGLIA LUCIA
+  45   1991   AMPLIAMENTO 20%                            7      169-171--486-487-864-865                   45/O/91      22.06.93    BARGARDI ALCESTE
+  45   1992   RISTRUTTURAZIONE FABBRICATO                9      611                                        45/O/92      23.04.93    ROMANI CINZIA
+  46   1990   AMPLIAMENTO 20 % E COSTRUZIONE PORTICATO   7      1243                                       ARCHIV.      13.07.90    ZANOTTO FRANCO e GEROLA GIULIA
+  46   1991   COSTRUZIONE LOCALE INTERRATO               9      250                                                                 STIGLIANO MASSIMILIANO
+  46   1992   RISTUTTURAZIONE ED AMPLIAMENTO 20%         10     61                                         46/O/90      23.04.93    BALZANI MARCO
+  47   1990   COSTRUZIONE TERRAZZINI                     12     683-1213                                   ARCH.UFF.    25.11.91    RARITA' LUIGI
+  47   1991   RISTRUTTURAZIONE EDILIZIA                  3      234                                        47/O/91      25.10.91    VENTURINI RENATO
+
+  47   1992   VARIANTE IN CORSO D'OPERA ALLA C.E.        7      412                                                                 BARUZZO GIOVANNA
+              103/87
+
+  48   1990   REALIZZAZIONE DI LOCALE INTERRATO -        2      1121                                       48/O/90      11.02.93    FUMANTI PIERO
+              VARIANTE ALLA CONCESSIONE EDILIZIA N.
+              80/CONV/84
+
+  48   1991   RISTRUTTURAZIONE ED AMPLIAMENTO            15     339                                                                 GIOVANELLI ALDO
+  48   1992   COSTRUZIONE INTERRATO E ADEGUAMENTO BOX    3      464-465                                                             TRIMARCO TOMMASO
+
+  49   1990   COSTRUZIONE TRALICCIO PER ANTENNA          7      199                                        49/O/90      20.07.90    SOC. VIDEO EXPRESS - BOZZA STEFANO
+              TELEVISIVA
+
+  49   1991   VARIAZIONE D'USO                           16     264                                                                 SOC. NINEA IMM.RE s.n.c.
+  49   1992   RIFACIMENTO PARZIALE DELLA COPERTURA       13     212                                                                 GENNARO ALBERTO
+  50   1990   COSTRUZIONE VASCA ANTINCENDIO                                                                                         LUPERI SERGIO
+
+  50   1991   NUOVA COSTRUZIONE MANUFATTO AGRICOLO ***   10     111                                        50/O/91      03.08.92    BRONDI ELMO
+              IN SANATORIA ***
+
+  50   1992   ADEGUAMENTO STATICO,RISTRUTTURAZIONE E     3      15                                         50/G/92      12.02.93    TRIO SALVATORE & GIUSEPPE
+              COSTRUZIONE SERRE
+
+  51   1990   CAMBIO DI DESTINAZIONE D'USO CON OPERE     6      681 sub. 2-3                               51/O/90      23.07.90    SOC. BANCA POPOLARE DI NOVARA
+              INTERNE
+
+  51   1991   NUOVA COSTRUZIONE - AMPLIAMENTO            1      335                                        51/O/91      22.01.93    MANZO ALESSANDRO
+              FABBRICATO
+
+
+
+                                                                                   Pag. 5
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  51   1992   DEMOLIZIONE,RICOSTRUZIONE ED AMPLIAMENTO   3      17                                         ARCH.UFF.    10.02.93    TRIO SALVATORE & GIUSEPPE
+              SERRE
+
+  52   1990   ADEGAMENTO SISMICO DI FABBRICATO           7      761                                        :                        LUISI ALFIERO
+              AGRICOLO
+
+  52   1991   RISTRUTTURAZIONE E COSTRUZIONE PORTICATI   9      377                                                                 MAGNANI BRUNO - CAVALLARO M. PIA
+  52   1992   RISTRUTTURAZIONE                           12     1047                                       52/O/92      07.10.92    PALLINI GIANCARLO
+
+  53   1990   ADEGUAMENTO STATICO DI FABBRCATO           3      271                                        ARCH.UFF.    25.11.91    STRETTI MARIA
+              AGRICOLO
+
+  53   1991   NUOVA COSTRUZIONE RESIDENZIALE CON         16     365-384-480                                                         CANCI SALVATORE
+              ANNESSI AGRICOLI
+
+  53   1992   VARIANTE ALLA CONCESSIONE 117/90           2      90                                                                  DUNI WALTER
+  54   1990   COSTRUZIONE GARAGE INTERRATO               2      1064                                       54/O/90      01.07.91    CAPPELLINI BRUNO e MICHELI OVIDIO
+  54   1991   FRAZIONAMENTO IMMOBILIARE                  9      2                                          54/O/91      14.12.91    CLEMENTE LUDOVICO
+
+  54   1992   VARIANTE ALLA CONC. EDIL. N. 142/O/88      12     1157-1322-1323-760/1-1319-1316-760/2-132   54/O/92      04.02.93    ORLANDI UGO, LEO, ALBANI LORENA
+              PER IL FABBRICATO "A" *** IN SANATORIA            1-1320
+              ***
+
+  55   1990   COSTRUZIONE LOCALE INTERRATO               13     938                                        ARCH.UFF.    11.11.91    BARBAGELATA ALESSANDRO
+  55   1991   COSTRUZIONE LOCALE INTERRATO               16     329                                        ARCH.UFF.    06.02.95    FRANCI FRANCO
+  55   1992   COSTRUZIONE AULA LOC. RESSORA              9                                                                          COMUNE DI ARCOLA - LL.PP
+
+  56   1990   CAMBIO D'USO E VARIANTI ALLA CONCESSIONE   14     126                                        56/O/90      15.01.91    SIMONINI ADRIANO
+              ED. 35/84
+
+  56   1991   CAMBIO D'USO INTERNO                       7      263-635                                                             SOC. S.I.L.
+  56   1992   AMPLIAMENTO 20%                            3      756-880-885-894                            56/O/90      30.01.93    DADA' ENZO
+
+  57   1990   REALIZZAZIONE PARCHEGGI E SISTEMAZIONE                                                                                SOC. E.N.E.L.
+              PIAZZALI
+
+  57   1991   RISTRUTTURAZIONE E FRAZIONAMENTO           3      764                                        57/O/91      08.04.92    SGORBINI GIORGIO
+              IMMOBILIARE
+
+  57   1992   VARIANTE ALLA CONC.EDIL. 38/89             6      588-186-341                                ARCH.UFF.    15.02.93    GENNARO MICHELE
+
+  58   1990   COSTRUZIONE CENTRALE TERMICA E SERBATOIO   10     519                                                                 SOC. GUARCO COMMISSIONARIA IND.le
+              GPL
+
+  58   1991   COSTRUZIONE SERRA AGRICOLA                 7      19                                                                  ZANOTTO ANTONELLA E SIMONA
+  58   1992   COSTRUZIONE TERRAZZO                       12     871 sub.2                                  58/O/92      15.04.93    LASAGNI TIZIANA
+
+  59   1990   CAMBIO DI DESTINAZIONE D'USO E OPERE       13     733                                        59/O/90      16.01.91    BARIA FERNANDO e PALMA DELFINA
+              INTERNE
+
+  59   1991   COSTRUZIONE DI LOCALE INTERRATO            12     229-234-1333                               59/O/91      18.11.92    VESCO ROBERTO
+
+  59   1992   RISTRUTTURAZIONE LOCALE AD USO GARAGE E    14     90                                         AUT.149/93   07.09.93    GEMIGNANI GINO - MARCHI M.
+              TETTOIA
+
+  60   1990   RISTRUTTURAZIONE ED AMPLIAMENTO 20%        13     88 - 89                                    60/O/90      28.09.92    SERENA MARIA LETIZIA
+
+
+
+
+                                                                                   Pag. 6
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  60   1991   AMPLIAMENTO FABBRICATO ***  SANATORIA      5      349                                                                 DE MASI ADRIANO
+              EDILIZIA  ***
+
+  60   1992   COPERTUTRA TERRAZZA                        12     437                                                                 VASSALLE LUCIA - TRATTORIA 7 LUNE
+  61   1990   COSTRUZIONE TERRAZZO E SCALA ESTERNA       16                                                ARCH.UFF.    25.11.90    TESI PASQUALE
+  61   1991   COSTRUZIONE CABINA ELETTRICA                                                                 ARCH. UFF    16.07.92    JOB GREGORIO (ex CARTIERA)
+  61   1992   COSTRUZIONE LOCALE CUCINA                  12     436-957                                                             VASSALLE LUCIA - TRATTORIA 7 LUNE
+  62   1990   CAMBIO DI DESTINAZIONE D'USO               6      29                                         62/O/90      07.01.91    ROSSI BRUNO e MARIA OLGA
+  62   1991   BOX PER SERVIZI                            4      79-207                                                              SOC. ALEMAR S.a.s. (JOB GREGORIO)
+  62   1992   REALIZZAZIONE GARAGES                      2      897                                        62/O/92      09.12.92    TEDESCO ISABELLA
+
+  63   1990   VARIANTE IN CORSO D'OPERA ALLA CONC.       9      456-457                                                             BONAMINI AIDA
+              140/88
+
+  63   1991   VARIANTE IN CORSO D'OPERA ALLA CONC ED.    1      301-619-443-1064                                                    CAPPELLINI B. - MICHELI O.
+              17/O/84
+
+  63   1992   AMPLIAMENTO ATTIVITA' INDUSTRIALE          4      207                                                                 SOC. ALEMAR S.a.s. (JOB GREGORIO)
+
+  64   1990   VARIANTI E COSTRUZIONE SCALA ESTERNA ***   13     123-124                                    64/O/90      21.10.92    LANDI FRANCO e D'ESTE RINA
+              IN SANATORIA ***
+
+  64   1991   VARIANTE ALLA C.E. 62/90                   6      29                                         64/O/91      28.07.92    ROSSI BRUNO
+  64   1992   AMPLIAMENTO FABBRICATO                     14     69                                                                  BIGI GIUSEPPE
+  65   1990   RISTRUTTURAZIONE E NUOVA COSTRUZIONE       6      588-186-341                                65/O/90      09.12.92    GENNARO MICHELE
+
+  65   1991   ADEGUAMENTO STATICO CON MODIFICHE AI       12     462                                        AUT. 49      15.04.92    FRESCO ANNALISA
+              PROSPETTI
+
+  65   1992   RISTRUTTURAZIONE E CAMBIO DESTINAZIONE     3      113                                        65/O/92      05.04.93    BOTTO FRANCO & DESSI' VITTORIA
+              D'USO
+
+  66   1990   RISTRUTTURAZIONE                           17     164                                        66/O/90      02.05.91    ALPINOLI NELLO
+  66   1991   COSTRUZIONE CAPANNONE                      7      266                                                                 SOC. 2 B ARREDAMENTI
+  66   1992   VARIANTE IN SANATORIA                      6      369                                        66/O/92      28.04.94    SINIGAGLIA LUIGI
+  67   1990   COSTRUZIONE LOCALE INTERRATO               5      317-324                                    67/O/90      25.08.92    BAUDINELLI DIMO
+  67   1991   VARIANTE SISTEMAZIONE TERRENO                                                                                         MOROTTI FRANCO
+  67   1992   VARIANTE ALLA CONC. EDIL. 66/O/90          17     164                                                                 ALPINOLI NELLO
+  68   1990   NUOVA COSTRUZIONE RURALE                   2      172 - 165                                                           SANTORO MARIA
+  68   1991   NUOVA COSTRUZIONE                          13     595-596                                    68/O/91      07.08.92    BASSANO MARUSCA
+  68   1992   BOX INTERRATO                              10     309                                        68/O/92      15.02.93    GAMBACCINI GINO
+
+  69   1990   VARIAZIONE DI DESTINAZIONE D'USO PER       7      267                                                                 SOC. C.R.M. - FASOLI FULVIO
+              REALIZZAZIONE ABITAZIONE CUSTODE
+
+  69   1991   RISTRUTTURAZIONE E COSTRUZIONE PORTICATO   12     186                                        69/O/91      20.03.92    SALZANO ERRICO
+  69   1992   VARIANTE ALLA C.E. 38/89                   6      583-129-639                                ARCH.UFF.    15.02.93    FATTORINI M. e ZARELLI E.
+  70   1990   SISTEMAZIONE MOVIMENTO FRANOSO             6                                                 70/G/90      09.09.91    AMMINISTRAZIONE PROVINCIALE - SP
+
+  70   1991   RIFACIMENTO COPERTURA CON INCREMENTO       5      154                                        ARCH.UFF.    17.10.92    MICHELI LUCIANO e CAMPANINI M.
+              VOLUMETRICO
+
+  70   1992   COSTRUZIONE BOX AUTO IN VARIANTE ALLA      13     167-168-623-624                            70/O/92      15.11.93    SOC. EDILIZIA ARCOLESE s.a.s
+              C.E. 38/82
+
+  71   1990   RISANAMENTO FABBRICATO                     9      18                                         71/O/90      30.05.91    CINOTTI NERINA
+  71   1991   VARIANTE ALLA PALAZZINA  UFFICI            10     489-516                                    71/O/91      30.08.91    SOC. MONTEGROSSO S.r.l.
+
+
+
+                                                                                   Pag. 7
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  71   1992   VARIANTE ALLA C.E. 38/O/82 ED AUT.         13     167-168-632-624                            ARCH.UFF     15.11.93    EDILIZIA ARCOLESE (IN LIQUIDAZIONE)
+              171/90
+
+  72   1990   MODIFICHE INTERNE ED ESTERNE               13     997                                        72/O/90      06.11.90    GALAZZO VINCENZA
+
+  72   1991   VARIANTE IN CORSO D'OPERA ALLA C.E.        13     609-930                                    72/G/91      10.07.92    GOTTARDO ALBERTO
+              31/O/90
+
+  72   1992   MURI DI CONTENIMENTO CON SCAVO E RIPORTO   6      509-510-733                                AUT. 23      24.02.93    SOMMOVIGO GLORIA ALBA
+              TERRENO
+
+  73   1990   COSTRUZIONE LOCALE INTERRATO AD USO        9      286                                                                 LENCIONI GIOVANNI
+              MAGAZZINO
+
+  73   1991   RIFACIMENTO MURO DI CONTENIMENTO           1      125-552                                    AUT. 85/92   23.05.92    BERNABO' LEA
+  73   1992   APERTURA FINESTRE E MODIFICA ACCESSO       13     546                                                                 RARITA' SALVATORE
+  74   1990   CAMBIO DESTINAZIONE D'USO                  13     455                                        74/O/89      20.02.91    BERNAZZANI CARLA
+  74   1991   COSTRUZIONE IN S.U.A. - FABBRICATO "A"     13     330-336-639-640                            74/CONV/91   16.03.94    COOP. AMILCAR CABRAL S.r.l.
+  74   1992   COSTRUZIONE PENSILINA                      1      756 - 862                                  AUT. 257     23.12.92    ARFANOTTI DARIA
+  75   1990   COSTRUZIONE TETTOIA                        3      226-947-954-955                            75/O/90      15.07.92    AMODEI ORAZIO
+  75   1991   COSTRUZIONE IN S.U.A. - FABBRICATO "B"     13     330-336-639-640                            75/CONV/91   19.05.95    COOP. AMILCAR CABRAL S.r.l.
+
+  75   1992   VARIANTE ALLA CONC. EDIL 68/O/88 *** IN    12     1099                                       75/O/92      29.11.93    ISOLA FRANCESCO e CESTER ANNA
+              SANATORIA ***
+
+  76   1990   COSTRUZIONE GARAGE INTERRATO               14     203                                                                 BORGATO MARIA
+  76   1991   COSTRUZIONE IN S.U.A. - FABBRICATO "C"     13     330-336-639-640                            76/CONV/91   16.03.94    COOP. AMILCAR CABRAL S.r.l.
+  76   1992   INSTALLAZIONE BOX  ** IN SANATORIA **      13     148                                        76/O/92      16.04.93    IARDELLA DOMENICO
+
+  77   1990   SISTEMAZIONE ESTERNA  E COSTRUZIONE        13     1161                                       ARCH.UFF.    25.11.90    CASTIGLIONI ROBERTO
+              RIPOSTIGLIO INTERRATO
+
+  77   1991   COSTRUZIONE IN S.U.A. - FABBRICATO "D"     13     330-336-639-640                            77/CONV/91   16.03.94    COOP. AMILCAR CABRAL S.r.l.
+  77   1992   CAMBIO DESTINAZIONE                        12     675-1216                                   ARCH.UFF.    12.12.92    NICOLAI RENATO
+  78   1990   ADEGUAMENTO SISMICO                        3      572                                        78/O/90      09.09.91    CAGNOLI SILVANO
+  78   1991   RISTRUTTURAZIONE DI FABBRICATO             1      915-916-917                                78/O/91      12.09.92    SAVI MAURIZIO e LANDI PAOLA
+  78   1992   ADEGUAMENTO STATICO                        3      829                                        78/O/92      25.05.93    STECCAGLIA ANTONINO
+  79   1990   REGISTRATA ERRONEAMENTE                                                                                               VALENTI GIOVANNI
+  79   1991   VARIANTE ALLA CONC.ED 92/O/90              3      726                                        79/O/91      23.12.91    BATTAGLIA LIDIA
+  79   1992   COSTRUZIONE LOCALE INTERRATO               10     551                                        79/O/92      05.02.93    SOMMOVIGO MIRKO
+  80   1990   VARIANTE IN CORSO D'OPERA                  14     11 - 197                                   80/G/90      06.03.90    GIORDANI DOMENICO
+  80   1991   AMPLIAMENTO LOCALE CALDAIA                 3                                                 AUT. 203     07.01.92    CONDOMINIO QUADRIFOGLIO
+
+  80   1992   MODIFICA APERTURE E REALIZZAZIONE          5      427                                        80/O/92      18.12.92    GIANFRANCHI ANGELO
+              TERRAZZO
+
+  81   1990   RIFACIMENTO TETTO                          13     493-494                                    ARCH.UFF.    11.11.91    FABIANO LUCIO
+  81   1991   AMPLIAMENTO FABBRICATO                     2      1159                                       81/O/91      25.05.93    ZANELLO LUIGI - LANDINI W.
+  81   1992   RISTRUTTURAZIONE FABBRICATO                6      168                                                                 ZAMPIERI IVO
+
+  82   1990   INTERVENTO SULL'ESISTENTE CON              13     683                                        82/O/90      20.02.91    SEVERI CLAUDIO
+              RIFACIMENTO DEL TETTO
+
+  82   1991   MANUTENZIONE STRAORDINARIA CON             7      509                                        82/G/91      20.07.91    PEGHINI PELLEGRINO
+              DEMOLIZIONE VOLUME ESTERNO
+
+  82   1992   MODIFICHE ESTERNE *** IN SANATORIA ***     16     264                                                                 SOC. NINEA IMM.RE s.n.c.
+
+
+
+                                                                                   Pag. 8
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  83   1990   MODIFICHE INTERNE PER CAMBIO ATTIVITA'     3      598                                        83/O/90      27.02.91    VALENTINI ITO
+  83   1991   RISTRUTTURAZIONE ED AMPLIAMENTO            13     724-726-559-571                            AUT. 4/94    13.01.94    MORELLA ANGELO
+  83   1992   COSTRUZIONE GARAGE INTERRATO               1      934                                        83/O/92      03.04.95    BONOMI PIERINO - ORSINI G.
+  84   1990   COSTRUZIONE PORTICATO E PENSILINA          7      19                                                                  ZANOTTO ANTONELLA
+  84   1991   COSTRUZIONE LOCALE CALDAIA                 7                                                 AUT.  /93                PARROCCHIA  S.ROCCO
+  84   1992   CAMBIO DESTINAZIONE D'USO                  16     580                                        84/O/92      23.04.96    VENTURINI LAURETTA
+  85   1990   COSTRUZIONE SCALA ESTERNA                  13     493-494                                    ARCH.UFF.    11.11.91    FABIANO LUCIO
+  85   1991   FRAZIONAMENTO IMMOBILIARE                  5      600                                        85/O/91      23.04.92    VESCO DANTE
+  85   1992   RISTRUTTURAZIONE DI FABBRICATO             1      36                                         85/O/92      12.09.94    RUGGERI MARCO
+
+  86   1990   COSTRUZIONE LOCALE AGRICOLO AD USO         2      39-40-41                                   86/O/90      09.09.91    CAPPELLINI R. e MARIA DONATELLA
+              CANTINA
+
+  86   1991   FRAZIONAMENTO IMMOBILIARE ***** IN         15     277                                        86/O/91      25.02.94    MALEGNI ILARIA
+              SANATORIA *****
+
+  86   1992   VARIANTE IN CORSO D'OPERA ALLA             3      764                                        86/G/92      03.04.93    SGORBINI GIORGIO E MARIO
+              CONC.EDIL.57/91
+
+  87   1990   SCAVO PER POSA TUBAZIONE IDRICA            14     151                                                                 SOC. A.C.A.M.
+  87   1991   PROGETTO IN SANATORIA - AE. 24/91          15     25                                         87/O/91      03.03.93    TRIACCA GIAN LUIGI
+
+  87   1992   INTERVENTO DI RESTAURO *** IN SANATORIA    5      408                                        87/O/92      23.04.93    BORSARI ROBERTO
+              ***
+
+  88   1990   AMPLIAMENTO 20% E COSTRUZIONE TETTOIA      7      307                                        88/O/90      01.02.93    LAMBERTUCCI FRANCO
+  88   1991   RISTRUTTURAZIONE FABBRICATO AGRICOLO                                                                                  BIANCHI MARIANNA
+  88   1992   COSTRUZIONE FABBRICATO                     2      280                                        88/O/92      29.07.93    SCAFIDI VINCENZO e DI DOMENICO ROSA
+
+  89   1990   VARIANTE IN CORSO D'OPERA ALLA CONC.       13     775-776                                    89/O/90      01.02.91    CINOTTI GIUSEPPE
+              111/O/87
+
+  89   1991   DEMOLIZIONE E RICOSTRUZIONE DEPOSITO       5      639-777-807                                89/O/91      16.01.93    VALERIANO LUCIANA
+              ATTREZZI COSTRUZIONE LOCALE SEMINTERRATO
+
+  89   1992   ADEGUAMENTO SISMICO                        15     19                                         89/O/92      03.03.94    GIANNARELLI MARIA
+  90   1990   SOSTITUZIONE RECINZIONE                    1      13                                         AUT. 173     20.11.90    BELLAZZINI CARLO
+  90   1991   COSTRUZIONE LOCALE IGIENICO                1      526-824                                                             BASINI ALBERTO
+  90   1992   COSTRUZIONE CASA UNIFAMILIARE              13     299                                        90/O/92      20.04.93    VASOLI ENZO e DAL PADULLO MORENA
+  91   1990   COSTRUZIONE MURO                           12     565                                                                 MONTALI GRAZIANA
+  91   1991   COSTRUZIONE SOPPALCO INTERNO               7      1083                                                                SOC. SI.TE.MAR. s.r.l.
+  91   1992   ASFALTATURA STRADA                         2                                                                          BERTELLINI-BONAMINI-DI PIETRO-CHIAPPINI
+  92   1990   AMPLIAMENTO 20% E RISTRUTTURAZIONE         3      726                                        92/O/90      12.03.91    BATTAGLIA LIDIA
+  92   1991   COSTRUZIONE TETTO                          16     444                                                                 LEROSE WALTER
+
+  92   1992   AMPLIAMENTO ATTIVITA' INDUSTRIALE *** IN   4      VARI                                       92/B/O/92    20.04.94    Soc. ALEMAR S.a.s.
+              SANATORIA  ***
+
+  92   1992   COSTRUZIONE CAPANNONE INDUSTRIALE          4      207                                                                 Soc. ALEMAR S.a.s.
+  92   1992   COSTRUZIONE IN S.U.A. - L.R. 24/87         4                                                                          SOC. ALEMAR S.a.s.
+  93   1990   COSTRUZIONE PORTICATO E TERRAZZO           3      192 - 643                                  93/O/90      25.06.91    CONTI PIETRO
+  93   1991   STRUTTURA PROTETTIVA AD ALTERNATORI                                                          ARCH.UFF.    06.02.95.   SOC. ARCOLA PETROLIFERA S.p.a.
+
+  93   1992   RIFACIMENTO COPERTURA *** IN SANATORIA     8      68                                         AUT. 24      17.03.93    MASALA MICHELE
+              ***
+
+  94   1990   COSTRUZIONE BOX INTERRATO                  16     135                                        94/O/90      30.09.91    BISO LUCIANA
+
+
+
+                                                                                   Pag. 9
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+  94   1991   SISTEMAZIONE ED ALLARGAMENTO STRADA        12     680-920-687                                94/G/91      01.02.92    DE BIASI CESARE
+              VICINALE
+
+  94   1992   DEMOLIZIONE E RICOSTRUZIONE DI EDIFICIO    2      300-1035-1036-1144                         94/O/92      02.03.95    TASSI BRUNO
+  95   1990   AMPLIAMENTO FABBRICATO                     1      335                                        ARCH.UFF.    11.11.90    MANZO ALESSANDRO
+  95   1991   COSTRUZIONE BOX INTERRATI                  1      109-110                                    95/O/91      20.01.92    MANFREDINI MARIA
+  95   1992   AMPLIAMENTO FABBRICATO                     12     675-1216                                   95/G/92      11.10.93    NICOLAI RENATO
+  96   1990   COSTRUZIONE LOCALE INTERRATO               13     886                                        96/O/90      20.07.92    MAREGATTI DUILIO
+  96   1991   NUOVO EDIFICIO PER ATTIVITA' SOCIALI       4      66-338                                                              COMUNE DI ARCOLA
+  96   1992                                                                                                ARCH.UFF.    06.02.95    SOC. ALFA COSTRUZIONI S.R.L
+  97   1990   RISTRUTTURAZIONE ED AMPLIAMENTO 20%        7      790                                        97/O/90      24.05.93    MAGGIARI GIANFRANCO
+
+  97   1991   RICOSTRUZIONE FABBRICATO ACCESSORIO ***    13     163                                                                 MURRO LUCIA
+              IN SANATORIA ***
+
+  97   1992   COSTRUZIONE LOCALE AD USO DEPOSITO ***     14     8-71                                                                BIGI GIUSEPPE
+              IN SANATORIA ***
+
+  98   1990   COSTRUZIONE LOCALE PER CENTRALE TERMICA    13/2   830                                                                 COLOMBO GIOVANNI (COND. GAGGIOLA)
+
+  98   1991   VARIANTE IN CORSO D'OPERA ALLA             7      659                                        98/O/91      06.04.92    GIARELLI ROBERTO
+              CONC.ED.9/O/91
+
+  98   1992   COSTRUZIONE PERGOLATO *** IN SANATORIA     14     71                                                                  BIGI GIUSEPPPE
+              ***
+
+  99   1990   VARIANTE - COSTRUZIONE INTERRATO           11     229                                                                 ALIANO LUIGI
+  99   1991   RIFACIMENTO COPERTURA                      2      22                                         99/O/91      14.05.92    BANCALARI ENRICO E ELISABETTA
+
+  99   1992   COSTRUZIONE PORTICATO *** IN SANATORIA     14     302                                                                 BIGI GIUSEPPPE
+              ***
+
+ 100   1990   AMPLIAMENTO 20% E RISTRUTTURAZIONE         13     598                                        100/O/90     20.09.91    LAVILLA MARIA GRAZIA
+
+ 100   1991   VARIANTE IN CORSO D'OPERA (CORPI A-B)      13     1404-1411                                  100/G/91     11.12.91    Soc. ALFACOSTRUZIONI S.r.l.
+              ex. ART. 15 L. 47/85
+
+ 100   1992   AMPLIAMENTO LOCALE CUCINA *** IN           14     69-304                                                              CHIAPPINI FRANCA
+              SANATORIA ***
+
+ 101   1990   RISTRUTTURAZIONE                           7      579-580                                    101/O/90     31.10.91    DAWODU ADERINOLA OLOBUNMI
+
+ 101   1991   RISTRUTTURAZIONE E COSTRUZIONE LOCALE      9      2                                          101/O/91     06.04.92    CLEMENTE LUDOVICO
+              CALDAIA
+
+ 101   1992   PAVIMENTAZIONE E PORTICATO *** IN          14     309                                                                 CHIAPPINI FRANCA
+              SANATORIA ***
+
+ 102   1990   RISTRUTTURAZIONE                           13     333-334                                    102/O/90     01.07.91    CASABIANCA GIANCARLO
+ 102   1991   NUOVA COSTRUZIONE CASA                     9      79                                         ARCH.UFF.    06.02.95    DI SALVATORE PIERO
+ 102   1992   COSTRUZIONE BOX *** IN SANATORIA ***       14     67                                                                  LAZZARI ALBA
+ 103   1990   COSTRUZIONE IN PIANO ATTUATIVO             7      566-567-568                                                         SGORBINI ALDO e ALTRI
+ 103   1991   COSTRUZIONE LOCALE INTERRATO               10     322                                        103/O/91     17.03.92    MONTALI RENZO e BRUNA
+ 103   1992   COSTRUZIONE GARAGE INTERRATO               13     588-589                                    AUT.91/93    17.05.93    CATTANI MAURO
+ 104   1990   COSTRUZIONE CASA UNIFAMILIARE              3      912-1120-1121                              104/O/90     25.06.91    ROMEO SALVATORE
+ 104   1991   FRAZIONAMENTO IMMOBILIARE                  6      144                                        104/O/91     23.12.91    LUCCARINI GIANPAOLO
+
+
+
+
+                                                                                   Pag. 10
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+ 104   1992   DEMOLIZIONE E RICOSTRUZIONE FABBRICATO     2      657                                        104/O/92     02.12.93    BARDI DANIELE
+              ABITATIVO
+
+ 105   1990   COSTRUZIONE GARAGE INTERRATO               10     316                                        105/O/90     05.02.92    MONTALI PIETRO
+
+ 105   1991   SISTEMAZIONE AREA CON COSTRUZIONE          7      N.C.                                                                UNITA' CINOFILA C.R.I. - VAL DI MAGRA
+              CASETTA
+
+ 105   1992   VARIANTE A STRADA INTERPODERALE *** IN     6      19-577-581-582-5583-575-710-730-129-186    ARCH.UFF     15.02.93    GENNARO MICHELE e ALTRI
+              SANATORIA ***
+
+ 106   1990   RISTRUTTURAZIONE FABBRICATO                10     52                                         106/O/90     25.10.91    BERTELLA MARA
+
+ 106   1991   RISTRUTTURAZIONE E CAMBIO DESTINAZIONE     12     532                                                                 ORLANDI MARICA
+              *** IN SANATORIA ***
+
+ 107   1990   COSTRUZIONE VANO SCALA                     16     247                                        ARCH.UFF.    25.11.91    CODEGLIA GIUSEPPE
+ 107   1991   CAMBIO DESTINAZIONE D'USO                  8      409-410                                                             TAZZINI GIUSEPPE
+
+ 108   1990   VARIANTI IN CORSO D'OPERA ALLA CONC.       1      138                                        108/G/90     02.08.91    VISDOMINI GIORGIO e MARCHINI R.
+              71/O/89
+
+ 108   1991   COSTRUZIONE MURO DI SOSTEGNO               6      477                                        AUT. 145     13.07.92    BACCHINI RINA
+ 109   1990   RISTRUTTURAZIONE ED AMPLIAMENTO            7      623                                        109/G/90     01.02.92    FESTA ANTONIO e D'AMICO ELENA
+ 109   1991   COSTRUZIONE ALLOGGI                        1      942-945-943-145                            109/C/91     19.03.93    COOP. EDILIZIA "LA MARINARA"
+ 110   1990   COSTRUZIONE LOCALE INTERRATO               12     384                                                                 GALAZZO CARLO
+
+ 110   1991   METANODOTTO ALLACCIAMENTO ENEL CON SCAVI                                                     110/G/91     26.07.93    SOC. SNAM S.p.a.
+              E ATTRAVERSAMENTI VARI
+
+ 111   1990   DEMOLIZIONE E RICOSTRUZIONE FABBRICATO     6      54                                         111/O/9O     17.01.92    MENCARELLI ALDA MARIA
+              RESIDENZIALE
+
+ 111   1991   RISTRUTTURAZIONE FABBRICATO                5      447                                        111/O/91     15.05.92    SOMMOVIGO MARIA GABRIELA
+
+ 112   1990   COSTRUZIONE LOCALE INTERRATO AD USO        10     373                                        112/O/90     25.11.91    BOLOGNA ROLANDO
+              AGRICOLO
+
+ 112   1991   COSTRUZIONE LOCALE AGRICOLO                2      89-90                                      112/O/90     26.04.94    DUNI WALTER
+ 113   1990   AMPLIAMENTO 20% E RISANAMENTO IGIENICO     6      6-7-8-9-10                                                          COSTA RICCARDO
+ 113   1991   APERTURA FINESTRA E MODIFICHE INTERNE      13     546                                        AUT. 204     02.11.92    GRASSI FRANCO
+ 114   1990   COSTRUZIONE INTERRATO                      16     50                                                                  BISO RINALDA
+
+ 114   1991   DEMOLIZIONE FABBRICATO E SISTEMAZIONE      12     800-1062                                   114/G/91     08.01.92    CALEVO GIUSEPPE
+              INGRESSO
+
+ 115   1990   COSTRUZIONE LOCALE INTERRATO               9      584                                        115/O/90     30.05.91    BERTAGNA N. - BELLOTTO IRLANDA
+ 116   1990   FRAZIONAMENTO IMMOBILIARE                  16     247                                        116/O/90     31.10.91    CODEGLIA GIUSEPPE
+ 117   1990   RISANAMENTO FABBRICATO AGRICOLO            2      90                                         117/O/90     25.09.91    DUNI WALTER
+ 118   1990   COSTRUZIONE IN PIANO ATTUATIVO             13     100-631-955-956-230-207                    ARCH.UFF.    01.04.93    BUCCI B., SIGFRIDO - SAMUELI G.
+
+ 119   1990   ADEGUAMENTO SISMICO DI GARAGE OGGETTO DI   16     728                                        119/O/90     14.05.92    ARPESELLA ROBERTO - PARENTINI V.
+              CONDONO EDILIZIO
+
+ 120   1990   AMPLIAMENTO 20%                            2      297-298-924                                ARCH.UFF.    25.11.90    LIVOLSI BRUNA
+
+ 121   1990   VARIANTE IN CORSO D'OPERA ALLA CONC. ED.   9      195-197-198                                121/G/90     20.03.92    ALTARE ANTONIO
+
+
+
+                                                                                   Pag. 11
+
+
+
+NUM.   ANNO                   OGGETTO                    FG.                     MAPP.                      N.CONC.       DATA                    INTESTATARIO
+----   ----   ----------------------------------------   ----   ----------------------------------------   ----------   ---------   ----------------------------------------
+              118/88
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                   Pag. 12
+
+

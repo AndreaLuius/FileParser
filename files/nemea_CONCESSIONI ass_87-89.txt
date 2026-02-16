@@ -1,0 +1,504 @@
+
+
+  ANNO   NUM.   FG.                     MAPP.                      N.CONC.      DATA                     OGGETTO
+  ----   ----   ----   ----------------------------------------   ---------   --------   ----------------------------------------
+  1982     38   13/b   167-168-623-624                                                   NUOVA COSTRUZIONE DI FABBRICATO
+                                                                                         CONDOMINIALE IN LOTTIZZAZIONE - COMPARTO
+                                                                                         "A" -
+
+  1983     54   1      711                                                               COSTRUZIONE BOX SEMINTERRATO
+
+          145   12     181                                        145/G/83    18.05.88   COSTRUZIONE DI LOCALI AD USO DEPOSITO E
+                                                                                         CANTINA *** IN SANATORIA ***
+
+  1984     17   1      301-619-1064-443                           17/O/84     05.03.91   COSTRUZIONE FABBRICATO RURALE
+           39   3      11                                         AUT.  47    15.03.89   COSTRUZIONE ACCESSO CARRABILE
+          115   12     339                                        115/O/84    26.09.88   COSTRUZIONE DI FABBRICATO AGRICOLO
+
+  1985     63   5      478                                                               COSTRUZIONE DI SCALA INTERRATA
+           72   17     91                                         72/O/85     24.12.88   COSTRUZIONE DI CAPANNONE INDUSTRIALE
+
+           81   7      123-125-126-127-128-129-376-377-378-379    81/O/85     21.03.89   NUOVA COSTRUZIONE DI CAPANNONE
+                                                                                         INDUSTRIALE
+
+  1986     34   7      529 - 846                                  ARCH. UF    31.05.90   COSTRUZIONE DI CAPANNONI ARTIGIANALE
+           75   8      62 - 67                                    75/G/86     16.04.87   COSTRUZIONE STRADA INTERPODERALE
+
+  1987      5   7      412                                                               NUOVA COSTRUZIONE
+            8   5      147                                        8/G/87      15.12.87   COSTRUZIONE DI MURO DI SOSTEGNO
+            9   5      147/772                                    9/G/87      04.05.87   COSTRUZIONE DI RECINZIONE METALLICA
+           12   9      169                                        12/G/87     17.09.87   COSTRUZIONE MURI DI CONTENIMENTO
+           13   16     441                                        13/O/87     21.06.91   COSTRUZIONE MURI *** IN SANATORIA ***
+           16   3      197                                        16/G/87     24.08.87   RICOSTRUZIONE SERRA
+           19   3      710                                        ARCH. UF    17.06.89   COSTRUZIONE DI LOGGIA
+           20   13     134                                        20/O/87     12.09.87   COSTRUZIONE DEPOSITO ATTREZZI
+
+           21   10     157/155/157/374/408/422                    21/O/87     08.02.88   COSTRUZIONE LOCALE AD USO UFFICI E
+                                                                                         TETTOIA *** IN SANATORIA ***
+
+           23   2      364                                        23/O/87     17.09.87   COSTRUZIONE DI LOCALE INTERRATO
+           25   6      665 / 689                                  ARCH. UF    31.05.90   COSTRUZIONE DI SOPPALCO INTERNO
+
+           26   9      131                                        26/G/87     22.10.87   COSTRUZIONE SERVIZI IGIENICI MEDIANTE
+                                                                                         AMPLIAMENTO
+
+           27   1      13                                         27/O/87     22.02.89   COSTRUZIONE DI TERRAZZO
+           28   12     496 - 957                                  28/O/87     11.12.89   COSTRUZIONE PASSERELLA
+
+           32   11     229                                        32/O/87     11.11.88   COSTRUZIONE LOCALE AD USO AGRICOLO
+                                                                                         PREFABBRICATO
+
+           33   7      850/851/448/1079                                                  COSTRUZIONE LOCALE AD USO RICOVERO
+                                                                                         ATTREZZI
+
+           34   5      417                                        34/O/87     22.02.89   COSTRUZIONE SERVIZIO IGIENICO E CAMBIO
+                                                                                         DI DESTINAZIONE D'USO
+
+           45   9      130                                                               COSTRUZIONE MURI DI SOSTEGNO ED
+                                                                                         INTERRATO *** IN SANATORIA ***
+
+           49   2      532                                                               COSTRUZIONE STRADA PRIVATA
+           50   4      231/232/233/234                            50/O/87     11.11.91   COSTRUZIONE CAPANNONE INDUSTRIALE
+           54   1      611/662/866                                54/G/87     17.09.87   COSTRUZIONE DI FORNO
+           55   12     487                                        55/G/87     11.07.87   COSTRUZIONE DI MURO IN SEGUITO A CROLLO
+
+           60   13     713/734/751/754/669/882/1161               60/O/87     28.10.87   COSTRUZIONE GARAGE E RICOVERO ATTREZZI
+                                                                                         AGRICOLI INTERRATI
+
+
+
+
+                                                               Pag. 1
+
+
+
+  ANNO   NUM.   FG.                     MAPP.                      N.CONC.      DATA                     OGGETTO
+  ----   ----   ----   ----------------------------------------   ---------   --------   ----------------------------------------
+           61   14     144                                        61/O/87     26.02.90   COSTRUZIONE DI CASA DI CIVILE ABITAZIONE
+           64   7      295                                        64/G/87     27.11.87   COSTRUZIONE DI RECINZIONE
+           66   9      327/328                                    66/O/87     26.10.88   COSTRUZIONE DI PORTICO E TETTOIA
+           71   16     204/205                                    71/G/87     23.12.87   MODIFICHE ESTERNE E RICOSTRUZIONE SCALA
+           73   5      467/478                                    73/G/87     17.02.88   COSTRUZIONE DI FORNO E RECINZIONE
+           74   2      523                                        ARCH. UF    31.05.90   COSTRUZIONE DI STRADA PRIVATA
+           75   8      35/39                                      75/G/87     04.05.88   COSTRUZIONE DI RECINZIONE
+
+           78   7      598/599                                    78/O/87     06.05.88   CONSOLIDAMENTO STATICO E COSTRUZIONE DI
+                                                                                         PORTICATO
+
+           80   9      424/437/438                                80/O/87     13.01.89   COSTRUZIONE CASA CON ANNESSI AGRICOLI
+           81   9      837/895                                    81/G/87     12.12.87   COSTRUZIONE MURO DI SOSTEGNO E FORNO
+
+           82   3      157-775                                    82/G/87     11.11.87   COSTRUZIONE SERVIZI IGIENICI-
+                                                                                         AMPLIAMENTO 20 %
+
+           83   10     294/354                                    83/O/87     02.05.88   NUOVA COSTRUZIONE AGRICOLA INTERRATA
+           84   9      230                                        84/O/87     13.12.88   COSTRUZIONE DI INTERRATI
+
+           85   13     856                                        85/O/87     01.04.88   FORMAZIONE  PIAZZUOLA DI SOSTA MEDIANTE
+                                                                                         COSTRUZIONE DI MURI DI SOSTEGNO
+
+           88   12     1311                                                              COSTRUZIONE TETTO DI COPERTURA
+           89   2      531/532                                    89/G/87     18.09.87   COSTRUZIONE STRADA PRIVATA
+
+           90   12     217-218-219                                ARCH. UF    18.01.89   COSTRUZIONE CANTINA E DEPOSITO ATTREZZI
+                                                                                         INTERRATI
+
+           94   5      809/913                                    94/O/87     25.03.88   COSTRUZIONE DI TERRAZZO AL PRIMO PIANO
+
+           95   5      579                                        95/C/87     07.09.88   RISTRUTTURAZIONE CON CAMBIO DI
+                                                                                         DESTINAZIONE D'USO ED AUMENTO DEL NUMERO
+                                                                                         DELLE UNITA' IMMOBILIARI E COSTRUZIONE
+                                                                                         DI SCALA ESTERNA
+
+           96   7      1124                                                              COSTRUZIONE DI SOPPALCO
+
+           97   7      1124                                                              COSTRUZIONE DI SOPPALCO INTERNO PER LA
+                                                                                         REALIZZAZIONE DI UN LOCALE AD USO
+                                                                                         UFFICIO
+
+          101   9      180                                        101/O/87    14.04.88   COSTRUZIONE DI INTERRATO
+          103   7      412                                        103/O/87    31.05.88   NUOVA COSTRUZIONE
+
+          105   7      935                                                               COSTRUZIONE DI LOCALE AD USO CENTRALE
+                                                                                         TERMICA
+
+          106   16     303                                        106/G/87    28.10.87   COSTRUZIONE DI MURI DI CONTENIMENTO
+          107   9      1                                          107/G/87    20.12.88   COSTRUZIONE MURO DI CONTENIMENTO
+
+          108   9      793                                        108/O/87    28.09.88   COSTRUZIONE DI LOCALE INTERRATO  AD USO
+                                                                                         GARAGE
+
+          109   7      935                                        109/G/87    10.11.87   COSTRUZIONE DI CENTRALE TERMICA
+          112   2      114/115                                    112/O/87    04.08.89   COSTRUZIONE DI TETTOIA
+          114   7      273/274/275/276                                                   COSTRUZIONE CAPANNONE INDUSTRIALE
+          118   3      141                                        118/G/87    29.06.88   COSTRUZIONE DI FORNO
+
+          119   1      811/812                                    ARCH. UF    19.01.89   COSTRUZIONE DI GARAGE INTERRATO E
+                                                                                         MODIFICHE INTERNE
+
+          120   4      340                                                               COSTRUZIONE MAGAZZINO
+
+
+
+                                                               Pag. 2
+
+
+
+  ANNO   NUM.   FG.                     MAPP.                      N.CONC.      DATA                     OGGETTO
+  ----   ----   ----   ----------------------------------------   ---------   --------   ----------------------------------------
+          123   2      1035                                       123/O/87    19.07.88   COSTRUZIONE DI INTERRATO
+          124   5      788                                        124/O/87    08.08.89   COSTRUZIONE LOCALE INTERRATO
+          131   2      340                                        131/O/87    19.12.88   COSTRUZIONE DI INTERRATO
+          132   4      207                                                               COSTRUZIONE  DI CABINA ELETTRICA
+          133   2      680                                        133/O/87    14.04.88   COSTRUZIONE FABBRICATO AGRICOLO
+
+          134   10     29                                         134/O/87    28.06.88   TAMPONAMENTO PORTICATO MEDIANTE
+                                                                                         AMPLIAMENTO 20% E RICOSTRUZIONE LOCALE
+                                                                                         CALDAIA
+
+          136   5      31 / 55 / 518                              136/O/87    20.08.88   COSTRUZIONE DI INTERRATO
+          137   5      410                                        137/O/87    29.11.89   COSTRUZIONE DI BALCONE
+          138   3      154/ 606                                                          COSTRUZIONE DI BOX PREFABBRICATO
+
+  1988      6   5      455 /457                                   6/O/88      13.01.89   COSTRUZIONE DI BALCONE
+
+            8   14     11 - 197                                               31.05.88   RISTRUTTURAZIONE TETTO - AMPLIAMENTO
+                                                                                         TERRAZZA - COSTRUZIONE TETTOIA
+
+            9   12     229 - 234 - 1333                           9/O/88      20.10.88   COSTRUZIONE DI LOCALI INTERRATI AD USO
+                                                                                         RICOVERO ATTREZZI E BOX - SISTEMAZIONE
+                                                                                         ENTRATORE CON MURI DI SOSTEGNO.
+
+           15   12     93                                         15/O/88     22.02.89   COSTRUZIONE DI CANTINA E RICOVERO
+                                                                                         ATTREZZI INTERRATA
+
+           16   8      69                                         ARCH. UF    31.05.90   COSTRUZIONE PORTICATO
+           18   7      213 - 214 - 217 - 880 - 994                18/O/88     24.10.90   COSTRUZIONE TETTOIA AD USO DEPOSITO
+           21   13     188 - 189 - 1203                                       31.05.88   NUOVA COSTRUZIONE E RISTRUTTURAZIONE
+           22   1      811 - 812 - 813                            ARCH. UF    18.01.89   COSTRUZIONE BOX INTERRATO
+
+           24   9      646                                        24/O/88     16.09.94   COSTRUZIONE BOX METALLICO PER DEPOSITO
+                                                                                         ATTREZZI AGRICOLI
+
+           26   1      676                                        26/O/88     19.12.88   COSTRUZIONE DI PORTICATO-PARCHEGGIO
+           27   17                                                27/G/88     28.09.88   COSTRUZIONE DI EDICOLA FUNERARIA
+
+           29   6      613 - 614                                              22.09.88   ADEGUAMENTO STRUTTURA OGGETTO DI CONDONO
+                                                                                         EDILIZIO E COSTRUZIONE DI BOX INTERRATO
+
+           30   3      197                                        30/G/88     25.01.89   DEMOLIZIONE E RICOSTRUZIONE DI PARTE DI
+                                                                                         SERRA
+
+           32   13     123 - 124                                                         2^ VARIANTE ALLA CONCESSIONE EDILIZIA N.
+                                                                                         351/O/CONV. DEL 03.11.81 PER COSTRUZIONE
+                                                                                         SCALA ESTERNA E SPOSTAMENTO PORTONE
+                                                                                         D'INGRESSO
+
+           34   9      867                                        34/O/88     06.10.88   COSTRUZIONE DI PORTICATO
+
+           35   2      31-32-181                                  35/O/88     28.06.89   NUOVA COSTRUZIONE DI CASA UNIFAMILIARE
+                                                                                         CON ACCESSORI AGRICOLI
+
+           39   10     347                                        ARCH. UF    31.05.90   NUOVA COSTRUZIONE DI CIVILE ABITAZIONE
+                                                                                         PREFABBRICATA
+
+           42   1      669                                        42/O/88     15.05.89   COSTRUZIONE LOCALI SEMINTERRATI
+
+           43   10     261 - 262                                  43/O/88     16.02.89   COSTRUZIONE DI CASA UNIFAMILIARE ED
+                                                                                         ACCESSORI AGRICOLI
+
+           45   1      222                                        45/G/88     20.10.88   COSTRUZIONE MURO DI CONTENIMENTO TERRENO
+           47   2      5 - 13                                     47/G/88     08.10.90   NUOVA COSTRUZIONE DI CASA RURALE
+
+
+
+                                                               Pag. 3
+
+
+
+  ANNO   NUM.   FG.                     MAPP.                      N.CONC.      DATA                     OGGETTO
+  ----   ----   ----   ----------------------------------------   ---------   --------   ----------------------------------------
+           48   3      422                                        ARCH. UF    31.05.90   COSTRUZIONE TETTOIA
+
+           56   14     11/197                                     56/O/88     15.12.88   RISTRUTTURAZIONE CON RIFACIMENTO DELLA
+                                                                                         COPERTURA ED AMPLIAMENTO DEL TERRAZZO -
+                                                                                         COSTRUZIONE DI TETTOIA IN C.A.
+
+           57   3      120                                        57/O/88     18.10.89   RIFACIMENTO SCALA DI ACCESSO AL PIANO
+                                                                                         PRIMO - COSTRUZIONE PORTICATO E POGGIOLO
+
+           59   13     592                                        59/O/88     02.04.92   AMPLIAMENTO DI FABBRICATO E COSTRUZIONE
+                                                                                         DI RECINZIONE *** IN  SANATORIA ***
+
+           60   2      463                                        ARCH. UF    10.01.91   COSTRUZIONE DI INTERRATO E
+                                                                                         CONSOLIDAMENTO STRUTTURALE
+
+           61   13     160-622-1175-1209                          61/O/88     10.09.88   COSTRUZIONE DI FABBRICATO RURALE
+           64   2      481                                        ARCH.UFF.   29.10.92   COSTRUZIONE DI FABBRICATO RURALE
+
+           65   7      461                                                               DEMOLIZIONE E RICOSTRUZIONE DI
+                                                                                         FABBRICATO
+
+           67   12     63                                         67/O/89     22.11.89   COSTRUZIONE  LOCALE CALDAIA *** IN
+                                                                                         SANATORIA ***
+
+           68   13     1099                                       68/O/88     02.03.89   COSTRUZIONE DI BOX SEMINTERRATO
+
+           69   7      97                                                                COSTRUZIONE DI PONTICELLO IN C.A.  ***IN
+                                                                                         SANATORIA ***
+
+           70   1      692                                        AUT.  46    10.03.89   COSTRUZIONE DI PENSILINA A SBALZO
+           73   13     123 - 124 -                                                       COSTRUZIONE SCALA ESTERNA
+
+           77   9      144                                        77/O/88     28.01.91   COSTRUZIONE DI CASA PREFABBRICATA *** IN
+                                                                                         SANATORIA ***
+
+           78   9      377                                        78/O/88     21.06.89   COSTRUZIONE DI MANUFATTO INTERRATO AD
+                                                                                         USO GARAGE E CANTINA
+
+           79   9      226-227-891-892-142-901                                           COSTRUZIONE DI STRUTTURA IN LEGNO ED
+                                                                                         ONDULATO PLASTICO ***  IN SANATORIA  ***
+
+           83   8      135                                        ARCH. UF    31.05.90   NUOVA COSTRUZIONE
+           85   7      900/901/583                                85/O/88     01.09.89   COSTRUZIONE DI CASA TRIFAMILIARE
+           86   4      207                                        ARCH. UF    31.05.90   COSTRUZIONE DI CABINA ELETTRICA
+
+           87   1      545                                        87/O/88     30.01.89   AMPLIAMENTO E RISTRUTTURAZIONE CON
+                                                                                         COSTRUZIONE DI PORTICATO
+
+           99   17     160 - 164 - 174 - 234                      99/G/88     26.04.89   COSTRUZIONE STRADA
+          103   3      40                                                     05.10.88   COSTRUZIONE FABBRICATO RURALE
+
+          111   13/C   814                                        111/O/88    07.06.89   RISTRUTTURAZIONE CON AMPLIAMENTO 20%  E
+                                                                                         COSTRUZIONE DI PORTICATO
+
+          112   VARI   VARI                                                              COSTRUZIONE DI NUOVA VIABILITA'
+
+          114   13     51                                         114/O/88    26.04.89   COSTRUZIONE MURI DI CONTENIMENTO **** IN
+                                                                                         SANATORIA ****
+
+          115   3      40                                         115/G/88    30.06.89   COSTRUZIONE FABBRICATO AGRICOLO
+
+          118   9      195-197-198                                118/O/88    02.08.89   COSTRUZIONE LOCALE INTERRATO E OPERE DI
+                                                                                         SOSTEGNO
+
+
+
+                                                               Pag. 4
+
+
+
+  ANNO   NUM.   FG.                     MAPP.                      N.CONC.      DATA                     OGGETTO
+  ----   ----   ----   ----------------------------------------   ---------   --------   ----------------------------------------
+          122   7      289 - 290                                  122/O/88    02.07.90   DEMOLIZIONE, RICOSTRUZIONE ED
+                                                                                         AMPLIAMENTO DI FABBRICATO ESISTENTE
+
+          123   5      321 - 327                                              09.01.89   NUOVA COSTRUZIONE DI FABBRICATO
+                                                                                         ABITATIVO ED AGRICOLO
+
+          130   6      614 - 615                                  130/O/88    09.03.89   COSTRUZIONE DI LOCALE INTERRATO
+          131   5      809 - 313                                  AUT. 144    23.06.89   COSTRUZIONE DI PENSILINA
+          135   12     591                                        135/O/88    01.03.94   COSTRUZIONE INTERRATO
+          137   6      63                                         137/O/88    14.06.90   COSTRUZIONE RICOVERO ATTREZZI E CANTINA
+
+          139   6      1                                          139/O/88    06.11.89   COSTRUZIONE DI LOCALI INTERRATI *** IN
+                                                                                         SANATORIA ***
+
+          140   9      456 - 457                                  140/O/88    28.09.89   COSTRUZIONE ACCESSORIO AGRICOLO
+
+          142   12     1157-1322-1323-760/1-1319-1316-760/2-132   142/O/88    18.07.90   NUOVE COSTRUZIONI RESIDENZIALI
+                       1-1320
+
+  1989      1   3      912                                        1/O/89      01.09.90   COSTRUZIONE ACCESSORIO AGRICOLO
+
+            2   5      353 - 653                                                         RISTRUTTURAZIONE E RISANAMENTO AREA E
+                                                                                         COSTRUZIONE FABBRICATO ACCESSORIO *** IN
+                                                                                         SANATORIA ***
+
+            3   5      653                                                               COSTRUZIONE FABBRICATO AD USO FIENILE
+                                                                                         *** IN SANATORIA ***
+
+            4   5      321 - 327                                                         COSTRUZIONE DI MONOLOCALE ED ACCESSORI
+                                                                                         AGRICOLI
+
+            5   12     234                                        AUT. 177    02.08.89   COSTRUZIONE MURI DI SOSTEGNO *** IN
+                                                                                         SANATORIA ***
+
+            6   9      79                                         6/O/89      16.06.89   COSTRUZIONE DI ACCESSORIO AGRICOLO
+                                                                                         INTERRATO
+
+            9   1      899                                        9/O/89      24.10.90   COSTRUZIONE LOCALI INTERRATI
+           17   3      912                                        17/O/89     08.01.90   COSTRUZIONE MAGAZZINO AGRICOLO
+
+           18   2      530                                        18/O/89     16.01.91   VARIANTE IN CORSO D'OPERA - COSTRUZIONE
+                                                                                         INTERRATO
+
+           19   1      448                                                               COSTRUZIONE PORTICATO E FORNO
+
+           21   12     738                                        21/O/89     21.03.90   RISANAMENTO IGIENICO SANITARIO -
+                                                                                         COSTRUZIONE TERRAZZA - RIFACIMENTO
+                                                                                         COPERTURA
+
+           23   2      264-281                                    23/O/89     15.05.90   COSTRUZIONE LOCALE INTERRATO AD USO
+                                                                                         AGRICOLO
+
+           24                                                     24/G/89     15.05.89   COSTRUZIONE CAPPELLA MORTUARIA
+           27   2      292-727-728                                27/O/89     20.10.89   COSTRUZIONE ACCESSORIO AGRICOLO
+           29                                                                            COSTRUZIONE CHIOSCO
+           38   6      588 - 186 - 341                            38/G/89     20.02.90   COSTRUZIONE  STRADA INTERPODERALE
+           41   2      235-351-617-741                            41/O/89     03.07.89   COSTRUZIONE LOCALI INTERRATI AGRICOLI
+           44   16     441                                        44/O/89     21.06.91   COSTRUZIONE LOCALE INTERRATO
+
+           45   12     339                                        45/O/89     16.06.89   VARIANTE ALLA C.E. n. 115/O/84 del
+                                                                                         26.09.88 COSTRUZIONE LOCALE INTERRATO
+
+           46   3      466                                        46/0/89     19.09.89   COSTRUZIONE TETTO DI COPERTURA
+
+
+
+                                                               Pag. 5
+
+
+
+  ANNO   NUM.   FG.                     MAPP.                      N.CONC.      DATA                     OGGETTO
+  ----   ----   ----   ----------------------------------------   ---------   --------   ----------------------------------------
+           54   7      461 - 462                                  54/O/89     07.07.93   NUOVA COSTRUZIONE
+           61   1      149                                        61/O/89     12.09.89   COSTRUZIONE LOCALE INTERRATO
+           63   7      1016                                       63/O/89     04.10.90   COSTRUZIONE DI SOPPALCO
+           65   8      423                                                               COSTRUZIONE  DI  TERRAZZA
+           68   14     252                                        68/O/89     15.10.90   COSTRUZIONE SOPPALCO INTERNO
+           70   7      678 - 569                                                         COSTRUZIONE DI BOX PREFABBRICATO
+           71   1      138                                        71/O/89     12.07.90   COSTRUZIONE LOCALE  INTERRATO
+           73   12     225                                        73/O/89     24.09.93   COSTRUZIONE FABBRICATO AGRICOLO
+           74   13     160-622-1209                               74/O/89     30.01.90   COSTRUZIONE LOCALE INTERRATO
+
+           79   2      116 - 1107                                 79/O/89     20.03.92   DEMOLIZIONE E RICOSTRUZIONE DI
+                                                                                         FABBRICATO RURALE CON COSTRUZIONE DI
+                                                                                         LOCALE INTERRATO
+
+           80   10     317-324-328-334-353                        80/O/89     04.12.92   COSTRUZIONE DI CASA DI CIVILE ABITAZIONE
+           81   9      561                                        81/O/89     20.11.89   COSTRUZIONE GARAGE INTERRATO
+
+           83   15     107-110-111-333                                                   DEMOLIZIONE E RICOSTRUZIONE DI
+                                                                                         FABBRICATO AGRICOLO
+
+           85   13     297                                        ARCH. UF    10.01.91   COSTRUZIONE GARAGE
+           91   5      802                                        91/O/89     18.01.90   COSTRUZIONE LOCALE INTERRATO
+           92   16     329                                        92/O/89     06.06.92   COSTRUZIONE INTERRATO E PORTICATO
+
+           93   1      242                                        93/O/89     28.06.93   AMPLIAMENTO IGIENICO SANITARIO E
+                                                                                         COSTRUZIONE LOCALE INTERRATO
+
+           98   2      114 - 115                                  98/O/89     22.03.90   COSTRUZIONE LOCALE INTERRATO
+           99   9      466-482-483                                99/O/89     02.05.91   COSTRUZIONE ACCESSORIO AGRICOLO
+          102   15     190                                                               COSTRUZIONE FORNO
+          103   1      588 - 922                                  AUT. 264    02.12.89   COSTRUZIONE MURI DI SOSTEGNO
+          106   13     263                                                               COSTRUZIONE DI PORTICATO
+
+          107   9      68-75-76-77-164                            107/O/89    03.02.92   NUOVA COSTRUZIONE RESIDENZIALE CON
+                                                                                         ANNESSI AGRICOLI
+
+          108   9      633                                        108/O/89    02.08.90   COSTRUZIONE SCALA
+          110   2      1044                                       110/O/89    22.03.90   COSTRUZIONE LOCALE INTERRATO
+          113   16     475                                                               COSTRUZIONE PARCHEGGIO
+          114   13     1097-167-623                               114/O/89    16.03.90   COSTRUZIONE FABBRICATI
+
+          117   12     597-636-637                                                       NUOVA COSTRUZIONE CASA DI CIVILE
+                                                                                         ABITAZIONE
+
+          118   16     138-555                                    118/O/89    29.05.90   COSTRUZIONE LOCALE AGRICOLO INTERRATO
+          119   9      72-73-572-795                              119/O/89    22.10.90   COSTRUZIONE DI INTERRATO AD USO AGRICOLO
+
+          120   2      463                                        120/O/89    01.02.91   COSTRUZIONE LOCALE INTERRATO AD USO
+                                                                                         AGRICOLO
+
+          121   12     93                                                                COSTRUZIONE PORTICATO
+
+          130   5      375                                        130/O/89    12.02.92   COSTRUZIONE LOCALE AD USO RICOVERO
+                                                                                         ATTREZZI AGRICOLI *** IN SANATORIA ***
+
+          133   9      140 - 701                                  133/O/89    24.02.92   COSTRUZIONE DI PORTICATO AD USO LEGNAIA
+          134   1      612                                        134/O/89    11.07.90   COSTRUZIONE DI LOCALE INTERRATO
+          135   16     445-448-568                                                       COSTRUZIONE ACCESSORIO AGRICOLO
+          138   5      VARI                                       138/C/89    03.05.91   COSTRUZIONE DI 49 ALLOGGI - P.E.E.P
+
+          140   5      42                                         140/O/89    11.07.90   COSTRUZIONE SCALA ESTERNA -
+                                                                                         REALIZZAZIONE BAGNO AL P.I^- AUMENTO
+                                                                                         SUPERFICI UTILE
+
+
+
+                                                               Pag. 6
+
+
+
+  ANNO   NUM.   FG.                     MAPP.                      N.CONC.      DATA                     OGGETTO
+  ----   ----   ----   ----------------------------------------   ---------   --------   ----------------------------------------
+          142   10     292                                        ARCH.UFF.   11.11.91   COSTRUZIONE "STRUTTURA AGRICOLA
+                                                                                         SPERIMENTALE"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               Pag. 7
+
