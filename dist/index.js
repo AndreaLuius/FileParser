@@ -2,15 +2,13 @@ import { join, dirname } from "node:path";
 import xlsx from "node-xlsx";
 import fs from "node:fs";
 import "dotenv/config";
-import { getEnvPath } from "./env.js";
 import { createApplicant, createInstance } from "./respository/ApplicantRepository.js";
 import { readFile } from "fs/promises";
 import inquirer from "inquirer";
 import { fileURLToPath } from "node:url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
-const applicantKeys = ["nome", "cognome", "indirizzo", "cognome e nome", "numero", "anno"];
-const parseXml2 = async (fileName) => {
+const parseXml = async (fileName) => {
     const workSheetFromFile = xlsx.parse(fs.readFileSync(fileName));
     for (let file of workSheetFromFile) {
         const header = file.data[0];
@@ -21,47 +19,61 @@ const parseXml2 = async (fileName) => {
             if (!row || row.length === 0)
                 continue;
             const applicant = {};
+            //TODO: create a separate function for this 
+            const firstLine = row[0]?.toLocaleString();
+            if (firstLine?.startsWith("KS")) {
+                const ksData = row[0].split(" ");
+                console.log(ksData);
+                if (ksData.length < 2)
+                    continue;
+                applicant.ragsociale = ksData[2];
+                applicant.indirizzo = "";
+                try {
+                    const queryResult = await createApplicant({ ragionesociale: applicant.ragsociale, via: applicant.indirizzo });
+                    const instance = {
+                        richiedente_id: queryResult.id,
+                        anno: "",
+                        posizione: ksData[1],
+                        note: "Creato da un file KS, gli unici dati presenti sono posizione e ragione sociale"
+                    };
+                    const queryInstanceResult = await createInstance(instance);
+                    continue;
+                }
+                catch (err) {
+                    throw new Error("something went wrong", { cause: err });
+                }
+            }
             const name = row[header.indexOf("NOME")];
-            applicant.ragsociale = name ? `${name} ${name} ${row[header.indexOf("COGNOME")] ?? ""}` : "Sconosciuto";
+            const nameLastName = row[header.indexOf("COGNOME E NOME")];
+            applicant.ragsociale = name ? `${name} ${row[header.indexOf("COGNOME")] ?? ""}` : nameLastName ? nameLastName : "Sconosciuto";
             applicant.indirizzo = row[header.indexOf("INDIRIZZO")] ?? "";
-            // TODO:  create the applicant in the database
-            const idx = 1; //"INDEX OF THE APPLICANT IN THE DATABASE"; // AFTER CREATION
-            const instance = {
-                richiedente_id: idx,
-                anno: row[header.indexOf("ANNO")] ?? "",
-                posizione: row[header.indexOf("NUMERO")] ?? "",
-                note: name ? "" : "Il richiedente dell'istanza è sconosciuto"
-            };
-            //TODO: create the instance in the database
-            console.log("Applicant created", applicant);
-            console.log("Instance created", instance);
+            try {
+                const queryResult = await createApplicant({ ragionesociale: applicant.ragsociale, via: applicant.indirizzo });
+                const instance = {
+                    richiedente_id: queryResult.id,
+                    anno: row[header.indexOf("ANNO")] ?? "",
+                    posizione: /^\d+$/.test(row[header.indexOf("NUMERO")]) ? row[header.indexOf("NUMERO")] : "",
+                    note: name ? "" : "Il richiedente dell'istanza è sconosciuto"
+                };
+                const queryInstanceResult = await createInstance(instance);
+                console.log("Instance created", instance);
+            }
+            catch (err) {
+                throw new Error("something went wrong", { cause: err });
+            }
         }
     }
 };
-const columnStart = (lines, headerIndex, keys) => {
-    const map = new Map();
-    for (let key of keys)
-        map.set(key, lines[headerIndex]?.indexOf(key) ?? -1);
-    return map;
-};
-const parseTxt2 = async (fileName) => {
+const parseTxt = async (fileName) => {
     const fileContent = await readFile(fileName, "utf-8");
     const lines = fileContent.split(/\r?\n/);
-    const columns = [
-        "ANNO",
-        "PRAT.",
-        "OGGETTO",
-        "F.",
-        "MAPP.",
-        "CONC. ED.",
-        "DATA",
-        "INTESTATARIO"
-    ];
     const headerIndex = lines.findIndex(l => l.includes("INTESTATARIO")
         || l.startsWith("ANNO")
-        || l.includes("PRAT."));
+        || l.includes("PRAT.")
+        || l.includes("NUM."));
     if (headerIndex === -1)
         throw new Error("Header line not found");
+    const columns = lines[headerIndex]?.trim()?.split(/\s{2,}/);
     const dashIndex = lines.findIndex((l, idx) => idx > headerIndex && /-{2,}/.test(l));
     const dashLine = lines[dashIndex];
     if (dashIndex === -1)
@@ -83,231 +95,43 @@ const parseTxt2 = async (fileName) => {
             applicant[key] = lines[i]?.substring(data.start, data.end) ?? "";
         }
         applicant.intestatario = applicant.intestatario ? applicant.intestatario : "Sconosciuto";
-        console.log(applicant);
-    }
-};
-const applicantRecordMapper = (header) => {
-    const isApplicantType = (value) => {
-        return applicantKeys.includes(value);
-    };
-    const applicantMapper = {};
-    header.forEach((value, index) => {
-        const val = value.toLocaleLowerCase();
-        if (isApplicantType(val)) {
-            let key = val;
-            applicantMapper[key] = index;
-        }
-    });
-    return applicantMapper;
-};
-const checkMapper = (prop, key, row) => {
-    const index = prop[key];
-    if (index === undefined)
-        return undefined;
-    const cell = row[index];
-    if (!cell)
-        return undefined;
-    return cell.toLocaleString();
-};
-async function parseXml(fileName) {
-    const workSheetFromFile = xlsx.parse(fs.readFileSync(fileName));
-    for (let file of workSheetFromFile) {
-        const header = file.data[0];
-        const data = file.data;
-        if (!header)
-            throw new Error("Header is missing");
-        const applicantMapper = applicantRecordMapper(header.map(String));
-        for (let row of data) {
-            const applicant = {};
-            if (applicantMapper.nome === undefined || applicantMapper.cognome === undefined) {
-                const cell = checkMapper(applicantMapper, "cognome e nome", row);
-                if (!cell) {
-                    applicant.nome = "Sconosciuto";
-                    applicant.cognome = "";
-                    applicant.indirizzo = row[header.indexOf("INDIRIZZO")] ?? "";
-                }
-                else {
-                    const [cognome, nome] = cell.split(" ");
-                    if (!cognome || !nome)
-                        continue;
-                    applicant.cognome = cognome;
-                    applicant.nome = nome;
-                }
-            }
-            else {
-                if (row[applicantMapper.nome] === undefined
-                    || row[applicantMapper.cognome] === undefined)
-                    continue;
-                applicant.nome = row[applicantMapper.nome];
-                applicant.cognome = row[applicantMapper.cognome];
-            }
-            const cellAddress = checkMapper(applicantMapper, "indirizzo", row);
-            applicant.indirizzo = cellAddress ?? "";
-            console.log("cuia");
-            // TODO: create a dedicated function for this 
-            try {
-                const applicant_query = {
-                    ragsociale: `${applicant.nome} ${applicant.cognome}`,
-                    indirizzo: applicant.indirizzo
-                };
-                console.log(applicant_query);
-                const queryResult = await createApplicant({
-                    ragionesociale: applicant_query.ragsociale,
-                    via: applicant_query.indirizzo
-                });
-                const queryInstanceResult = await createInstance({
-                    richiedente_id: queryResult.id,
-                    anno: row[header.indexOf("ANNO")] ?? "",
-                    posizione: row[header.indexOf("NUMERO")] ?? "",
-                    note: ""
-                });
-                console.log(queryResult.id, queryInstanceResult);
-            }
-            catch (err) {
-                throw new Error("something went wrong", { cause: err });
-            }
-        }
-    }
-}
-function buildBoundsFromDashes(dashLine, colCount) {
-    // Find each group of hyphens (----) and use its start as the column start.
-    // Then the end of a column is the next group's start; last ends at line.length.
-    const groups = Array.from(dashLine.matchAll(/-+/g)).map((m) => ({
-        start: m.index ?? 0,
-        end: (m.index ?? 0) + m[0].length,
-    }));
-    if (groups.length < colCount) {
-        throw new Error(`Not enough dash groups to infer ${colCount} columns. Found ${groups.length}. Line: ${dashLine}`);
-    }
-    const starts = groups.slice(0, colCount).map((g) => g.start);
-    const ends = starts.map((s, i) => (i + 1 < starts.length ? starts[i + 1] : dashLine.length));
-    return { starts, ends };
-}
-export async function parseTxt(fileName) {
-    const fileContent = await readFile(fileName, "utf-8");
-    const lines = fileContent.split(/\r?\n/);
-    const labels = ["ANNO", "PRAT.", "OGGETTO", "F.", "MAPP.", "CONC. ED.", "DATA", "INTESTATARIO"];
-    const COLS = labels.length;
-    const headerIndex = lines.findIndex((l) => l.includes("INTESTATARIO"));
-    if (headerIndex === -1)
-        throw new Error("Header line not found");
-    // Find the dashed separator line AFTER the header line
-    const dashIndex = lines.findIndex((l, idx) => idx > headerIndex && /-{2,}/.test(l));
-    if (dashIndex === -1)
-        throw new Error("Dash separator line not found after header");
-    const dashLine = lines[dashIndex];
-    const { starts, ends } = buildBoundsFromDashes(dashLine, COLS);
-    const sliceCol = (line, i) => {
-        const a = starts[i];
-        const b = ends[i] ?? line.length;
-        // guard for short lines
-        if (a >= line.length)
-            return "";
-        return line.slice(a, Math.min(b, line.length)).trim();
-    };
-    const isHeaderLine = (line) => line.includes("INTESTATARIO") || line.trim().startsWith("ANNO") || line.includes("OGGETTO");
-    const isNoise = (line) => !line.trim() || /-{2,}/.test(line.trim()) || line.includes("Pag.") || isHeaderLine(line);
-    const isNewRecord = (row) => row[1].length > 0; // PRAT. present
-    const isContinuation = (row) => row[1].length === 0 && (row[2].length > 0 || row[7].length > 0); // OGGETTO or INTESTATARIO text
-    const mergeContinuation = (base, extra) => {
-        const out = [...base];
-        // merge only the fields that wrap in your data
-        const WRAP = [2, 7]; // OGGETTO, INTESTATARIO
-        for (const idx of WRAP) {
-            if (!extra[idx])
-                continue;
-            out[idx] = out[idx] ? `${out[idx]} ${extra[idx]}` : extra[idx];
-        }
-        return out;
-    };
-    const rows = [];
-    let current = null;
-    let lastAnno = "";
-    // Start parsing AFTER the dash line (data begins below it)
-    for (let i = dashIndex + 1; i < lines.length; i++) {
-        const line = lines[i];
-        if (isNoise(line))
-            continue;
-        const row = Array.from({ length: COLS }, (_, c) => sliceCol(line, c));
-        // propagate year down
-        if (!row[0])
-            row[0] = lastAnno;
-        else
-            lastAnno = row[0];
-        if (isNewRecord(row)) {
-            if (current)
-                rows.push(current);
-            current = row;
-            continue;
-        }
-        if (current && isContinuation(row)) {
-            current = mergeContinuation(current, row);
-            continue;
-        }
-    }
-    if (current)
-        rows.push(current);
-    for (let i of rows) {
-        if (!i[labels.indexOf("INTESTATARIO")])
-            continue; // add a log in the column note saying that it could not be created
         try {
-            if (!i[labels.indexOf("INTESTATARIO")]) {
-                const applicant_query = {
-                    ragsociale: `Sconosciuto`,
-                };
-                console.log(applicant_query);
-                const queryResult = await createApplicant({
-                    ragionesociale: applicant_query.ragsociale
-                });
-                const queryInstanceResult = await createInstance({
-                    richiedente_id: queryResult.id,
-                    anno: i[labels.indexOf("ANNO")] ?? "",
-                    posizione: i[labels.indexOf("PRAT")] ?? "",
-                    note: "Il richiedente è sconosciuto"
-                });
-            }
-            else {
-                const applicant_query = {
-                    ragsociale: `${i[labels.indexOf("INTESTATARIO")]}`,
-                };
-                const queryResult = await createApplicant({
-                    ragionesociale: applicant_query.ragsociale
-                });
-                const queryInstanceResult = await createInstance({
-                    richiedente_id: queryResult.id,
-                    anno: i[labels.indexOf("ANNO")] ?? "",
-                    posizione: i[labels.indexOf("PRAT")] ?? "",
-                    note: ""
-                });
-            }
+            const applicant_query = {
+                ragsociale: `${applicant.intestatario}`,
+            };
+            const queryResult = await createApplicant({
+                ragionesociale: applicant_query.ragsociale,
+            });
+            const instance = {
+                richiedente_id: queryResult.id,
+                anno: applicant.anno ?? "",
+                posizione: applicant["prat."] ?? "",
+                note: applicant.intestatario === "Sconosciuto" ? "Il richiedente dell'istanza è sconosciuto" : ""
+            };
+            const queryInstanceResult = await createInstance(instance);
         }
         catch (err) {
             throw new Error("something went wrong", { cause: err });
         }
     }
-    return rows;
-}
-function parseCsv(fileName) {
-}
+};
 async function main() {
-    // const {path} = await inquirer.prompt([
-    //     {
-    //         type: "input",
-    //         name: "path",
-    //         message: "Enter the filePath",
-    //         validate: (input) => input.length > 0 || "Path required"
-    //     }
-    // ])
-    // const normalizedPath = path 
-    // .trim()
-    // .replace(/^['"]|['"]$/g, "")
-    // .replace(/\\ /g, " ");
-    // // if(normalizedPath.includes(".txt")) {
-    // //     parseTxt(normalizedPath);
-    // // }else if(normalizedPath.includes(".xlsx")) {
-    //     parseXml("/Volumes/Andrea-ext/lavoro/nemea 13-01-2026/nemea_CONCESSIONI ass_87-89_1.xlsx");
-    // // }
-    parseTxt2(join(__dirname, "../", "files", "nemea_CONCESSIONI Ass_77-86.txt"));
+    const { path } = await inquirer.prompt([
+        {
+            type: "input",
+            name: "path",
+            message: "Enter the filePath",
+            validate: (input) => input.length > 0 || "Path required"
+        }
+    ]);
+    const normalizedPath = path
+        .trim()
+        .replace(/^['"]|['"]$/g, "")
+        .replace(/\\ /g, " ");
+    if (normalizedPath.includes(".txt"))
+        parseTxt(normalizedPath);
+    else if (normalizedPath.includes(".xlsx"))
+        parseXml(normalizedPath);
 }
 main();
 //# sourceMappingURL=index.js.map
